@@ -1,5 +1,3 @@
-require 'pp'
-
 BASH_HISTORY_FILE_PATH = "#{ENV['HOME']}/.bash_history"
 ZSH_HISTORY_PATH = "#{ENV['HOME']}/.zsh_history"
 
